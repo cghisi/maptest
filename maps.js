@@ -89,6 +89,7 @@ function find_closest_marker(geolocate) {
 
     }
     console.log('Closest marker is: ' + markersArray[closest].name);
+    document.getElementById('result').innerHTML = 'Closest marker is: ' + markersArray[closest].name;
 }
 
 /**
