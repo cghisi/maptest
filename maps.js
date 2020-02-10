@@ -8,10 +8,12 @@ var jsonfile;
 var markersArray;
 
 function getGeolocation() {
-    if (navigator && navigator.geolocation) {
+    if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(drawMap);
     } else {
-        alert("ror");
+        alert("Geolocation is not supported.");
+        document.getElementById("result").innerHTML =
+            "Geolocation is not supported.";
     }
 
 }
@@ -196,7 +198,7 @@ function convertMetersToKm(meters) {
 }
 
 function getIP(json) {
-    var access_key = "ad32c0dc5c517dde867f887f75998d23";
+    /*var access_key = "ad32c0dc5c517dde867f887f75998d23";
     $.ajax({
         url: "http://api.ipstack.com/" + json.ip + "?access_key=" + access_key,
         dataType: "jsonp",
@@ -204,5 +206,5 @@ function getIP(json) {
             // output the "capital" object inside "location"
             console.log(json);
         }
-    });
+    });*/
 }
