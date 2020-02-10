@@ -8,7 +8,12 @@ var jsonfile;
 var markersArray;
 
 function getGeolocation() {
-    navigator.geolocation.getCurrentPosition(drawMap);
+    if (navigator && navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(drawMap);
+    } else {
+        alert("ror");
+    }
+
 }
 
 function drawMap(geoPos) {
