@@ -1,0 +1,7089 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.884,
+                    44.149236
+                ]
+            },
+            "properties": {
+                "store_number": 1,
+                "store_name": "Alliston, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.984187,
+                    45.61773
+                ]
+            },
+            "properties": {
+                "store_number": 2,
+                "store_name": "Antigonish, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.200389,
+                    45.809747
+                ]
+            },
+            "properties": {
+                "store_number": 3,
+                "store_name": "Amherst, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.366699,
+                    45.425607
+                ]
+            },
+            "properties": {
+                "store_number": 4,
+                "store_name": "Arnprior, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.860934,
+                    45.084521
+                ]
+            },
+            "properties": {
+                "store_number": 5,
+                "store_name": "Bancroft, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.701884,
+                    44.400046
+                ]
+            },
+            "properties": {
+                "store_number": 6,
+                "store_name": "Barrie, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.399738,
+                    44.186243
+                ]
+            },
+            "properties": {
+                "store_number": 7,
+                "store_name": "Belleville, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.009495,
+                    42.342163
+                ]
+            },
+            "properties": {
+                "store_number": 8,
+                "store_name": "Blenheim, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.575397,
+                    45.593613
+                ]
+            },
+            "properties": {
+                "store_number": 9,
+                "store_name": "Langelier, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.736989,
+                    43.667026
+                ]
+            },
+            "properties": {
+                "store_number": 10,
+                "store_name": "Brampton Shoppers World, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.665093,
+                    47.630401
+                ]
+            },
+            "properties": {
+                "store_number": 11,
+                "store_name": "Bathurst, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.534212,
+                    44.39899
+                ]
+            },
+            "properties": {
+                "store_number": 13,
+                "store_name": "Bridgewater, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.699121,
+                    44.60609
+                ]
+            },
+            "properties": {
+                "store_number": 14,
+                "store_name": "Brockville, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.401804,
+                    45.574489
+                ]
+            },
+            "properties": {
+                "store_number": 15,
+                "store_name": "Buckingham, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.700771,
+                    47.992234
+                ]
+            },
+            "properties": {
+                "store_number": 16,
+                "store_name": "Atholville, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.80465,
+                    44.304545
+                ]
+            },
+            "properties": {
+                "store_number": 17,
+                "store_name": "Campbellford, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.119091,
+                    45.133937
+                ]
+            },
+            "properties": {
+                "store_number": 18,
+                "store_name": "Carleton Place, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.447852,
+                    43.716128
+                ]
+            },
+            "properties": {
+                "store_number": 19,
+                "store_name": "Lawrence & Allen Expwy, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.145017,
+                    46.269094
+                ]
+            },
+            "properties": {
+                "store_number": 20,
+                "store_name": "Charlottetown, PEI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.209315,
+                    42.399653
+                ]
+            },
+            "properties": {
+                "store_number": 21,
+                "store_name": "Chatham, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.757805,
+                    46.246499
+                ]
+            },
+            "properties": {
+                "store_number": 22,
+                "store_name": "Espanola, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.203285,
+                    43.968998
+                ]
+            },
+            "properties": {
+                "store_number": 23,
+                "store_name": "Cobourg, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.044956,
+                    49.059842
+                ]
+            },
+            "properties": {
+                "store_number": 24,
+                "store_name": "Cochrane, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.767948,
+                    44.615682
+                ]
+            },
+            "properties": {
+                "store_number": 25,
+                "store_name": "Digby, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.730334,
+                    45.030658
+                ]
+            },
+            "properties": {
+                "store_number": 26,
+                "store_name": "Cornwall, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.941471,
+                    43.25745
+                ]
+            },
+            "properties": {
+                "store_number": 27,
+                "store_name": "Dundas, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.599271,
+                    42.902266
+                ]
+            },
+            "properties": {
+                "store_number": 29,
+                "store_name": "Dunnville, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.293121,
+                    43.725654
+                ]
+            },
+            "properties": {
+                "store_number": 30,
+                "store_name": "Warden & Eglinton, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.363703,
+                    43.695544
+                ]
+            },
+            "properties": {
+                "store_number": 31,
+                "store_name": "Fergus, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.005435,
+                    43.103584
+                ]
+            },
+            "properties": {
+                "store_number": 32,
+                "store_name": "Forest, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.924258,
+                    42.904706
+                ]
+            },
+            "properties": {
+                "store_number": 33,
+                "store_name": "Fort Erie, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.312754,
+                    48.381692
+                ]
+            },
+            "properties": {
+                "store_number": 34,
+                "store_name": "Thunder Bay South, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.66667,
+                    45.944249
+                ]
+            },
+            "properties": {
+                "store_number": 35,
+                "store_name": "Fredericton, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.292243,
+                    43.359003
+                ]
+            },
+            "properties": {
+                "store_number": 36,
+                "store_name": "Cambridge, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.150285,
+                    44.336429
+                ]
+            },
+            "properties": {
+                "store_number": 37,
+                "store_name": "Gananoque, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.743236,
+                    44.528428
+                ]
+            },
+            "properties": {
+                "store_number": 38,
+                "store_name": "Fenelon Falls, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.686303,
+                    43.730726
+                ]
+            },
+            "properties": {
+                "store_number": 39,
+                "store_name": "Goderich, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.569761,
+                    43.197605
+                ]
+            },
+            "properties": {
+                "store_number": 40,
+                "store_name": "Grimsby, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.568853,
+                    44.699661
+                ]
+            },
+            "properties": {
+                "store_number": 41,
+                "store_name": "Dartmouth Crossing, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.23081,
+                    43.523469
+                ]
+            },
+            "properties": {
+                "store_number": 42,
+                "store_name": "Guelph Stone Rd, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.389811,
+                    43.211058
+                ]
+            },
+            "properties": {
+                "store_number": 43,
+                "store_name": "Paris, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.59652,
+                    44.6459
+                ]
+            },
+            "properties": {
+                "store_number": 44,
+                "store_name": "Halifax, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.858096,
+                    43.252166
+                ]
+            },
+            "properties": {
+                "store_number": 45,
+                "store_name": "Hamilton Main, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.005126,
+                    44.156535
+                ]
+            },
+            "properties": {
+                "store_number": 46,
+                "store_name": "Hanover, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.204291,
+                    45.334355
+                ]
+            },
+            "properties": {
+                "store_number": 47,
+                "store_name": "Huntsville, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.881315,
+                    43.041418
+                ]
+            },
+            "properties": {
+                "store_number": 48,
+                "store_name": "Ingersoll, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.963284,
+                    43.061308
+                ]
+            },
+            "properties": {
+                "store_number": 49,
+                "store_name": "Caledonia, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.615433,
+                    44.172516
+                ]
+            },
+            "properties": {
+                "store_number": 51,
+                "store_name": "Kincardine, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.043227,
+                    48.147962
+                ]
+            },
+            "properties": {
+                "store_number": 52,
+                "store_name": "Kirkland Lake, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.441235,
+                    43.419965
+                ]
+            },
+            "properties": {
+                "store_number": 53,
+                "store_name": "Kitchener South, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.44564,
+                    45.066205
+                ]
+            },
+            "properties": {
+                "store_number": 54,
+                "store_name": "New Minas, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.598884,
+                    42.038036
+                ]
+            },
+            "properties": {
+                "store_number": 55,
+                "store_name": "Leamington, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.757784,
+                    44.349402
+                ]
+            },
+            "properties": {
+                "store_number": 56,
+                "store_name": "Lindsay, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.966631,
+                    43.733028
+                ]
+            },
+            "properties": {
+                "store_number": 57,
+                "store_name": "Listowel, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.22117,
+                    42.929987
+                ]
+            },
+            "properties": {
+                "store_number": 58,
+                "store_name": "London South, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.91189,
+                    44.740595
+                ]
+            },
+            "properties": {
+                "store_number": 61,
+                "store_name": "Midland, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.369215,
+                    44.904696
+                ]
+            },
+            "properties": {
+                "store_number": 62,
+                "store_name": "Gravenhurst, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.756197,
+                    46.097385
+                ]
+            },
+            "properties": {
+                "store_number": 63,
+                "store_name": "Moncton Dieppe, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6199,
+                    45.556976
+                ]
+            },
+            "properties": {
+                "store_number": 64,
+                "store_name": "Montreal, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.964652,
+                    44.260048
+                ]
+            },
+            "properties": {
+                "store_number": 65,
+                "store_name": "Napanee, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.742031,
+                    43.988271
+                ]
+            },
+            "properties": {
+                "store_number": 66,
+                "store_name": "Mount Forest, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.665208,
+                    45.579946
+                ]
+            },
+            "properties": {
+                "store_number": 67,
+                "store_name": "New Glasgow, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.672294,
+                    47.531133
+                ]
+            },
+            "properties": {
+                "store_number": 68,
+                "store_name": "New Liskeard, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.484335,
+                    44.059743
+                ]
+            },
+            "properties": {
+                "store_number": 69,
+                "store_name": "Newmarket, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.545929,
+                    43.618221
+                ]
+            },
+            "properties": {
+                "store_number": 70,
+                "store_name": "The Queensway, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.123294,
+                    43.118857
+                ]
+            },
+            "properties": {
+                "store_number": 71,
+                "store_name": "Niagara Falls North, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.470817,
+                    46.331276
+                ]
+            },
+            "properties": {
+                "store_number": 72,
+                "store_name": "North Bay, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.097535,
+                    43.931011
+                ]
+            },
+            "properties": {
+                "store_number": 73,
+                "store_name": "Orangeville, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.437,
+                    44.630738
+                ]
+            },
+            "properties": {
+                "store_number": 74,
+                "store_name": "Orillia, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.87612,
+                    43.885779
+                ]
+            },
+            "properties": {
+                "store_number": 75,
+                "store_name": "Oshawa Mid, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.914704,
+                    44.573868
+                ]
+            },
+            "properties": {
+                "store_number": 77,
+                "store_name": "Owen Sound, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.007629,
+                    45.342303
+                ]
+            },
+            "properties": {
+                "store_number": 78,
+                "store_name": "Parry Sound, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.082084,
+                    45.81928
+                ]
+            },
+            "properties": {
+                "store_number": 79,
+                "store_name": "Pembroke, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.264786,
+                    44.911233
+                ]
+            },
+            "properties": {
+                "store_number": 80,
+                "store_name": "Perth, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.351622,
+                    44.281443
+                ]
+            },
+            "properties": {
+                "store_number": 81,
+                "store_name": "Peterborough, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.163967,
+                    43.998047
+                ]
+            },
+            "properties": {
+                "store_number": 82,
+                "store_name": "Picton, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.239975,
+                    48.40311
+                ]
+            },
+            "properties": {
+                "store_number": 83,
+                "store_name": "Thunder Bay Center, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.521752,
+                    44.723808
+                ]
+            },
+            "properties": {
+                "store_number": 85,
+                "store_name": "Prescott, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.653858,
+                    45.479904
+                ]
+            },
+            "properties": {
+                "store_number": 86,
+                "store_name": "Renfrew, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.413332,
+                    43.842285
+                ]
+            },
+            "properties": {
+                "store_number": 87,
+                "store_name": "Richmond Hill, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.04106,
+                    48.242555
+                ]
+            },
+            "properties": {
+                "store_number": 89,
+                "store_name": "Rouyn, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.265789,
+                    43.151522
+                ]
+            },
+            "properties": {
+                "store_number": 90,
+                "store_name": "St. Catharines, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.142691,
+                    43.257014
+                ]
+            },
+            "properties": {
+                "store_number": 91,
+                "store_name": "St. Marys, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.173883,
+                    42.783222
+                ]
+            },
+            "properties": {
+                "store_number": 92,
+                "store_name": "St. Thomas, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.337718,
+                    47.383329
+                ]
+            },
+            "properties": {
+                "store_number": 93,
+                "store_name": "Edmundston, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.350552,
+                    42.982678
+                ]
+            },
+            "properties": {
+                "store_number": 94,
+                "store_name": "Sarnia, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.318188,
+                    46.522715
+                ]
+            },
+            "properties": {
+                "store_number": 95,
+                "store_name": "Sault Ste. Marie, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.966034,
+                    45.419389
+                ]
+            },
+            "properties": {
+                "store_number": 96,
+                "store_name": "Sherbrooke, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.291736,
+                    42.847527
+                ]
+            },
+            "properties": {
+                "store_number": 97,
+                "store_name": "Simcoe, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.028996,
+                    44.892075
+                ]
+            },
+            "properties": {
+                "store_number": 98,
+                "store_name": "Smiths Falls, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.491929,
+                    45.598808
+                ]
+            },
+            "properties": {
+                "store_number": 99,
+                "store_name": "Shawville, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.775029,
+                    50.308561
+                ]
+            },
+            "properties": {
+                "store_number": 100,
+                "store_name": "Swift Current, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.252067,
+                    46.816986
+                ]
+            },
+            "properties": {
+                "store_number": 101,
+                "store_name": "Quebec Vanier, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.911431,
+                    46.366387
+                ]
+            },
+            "properties": {
+                "store_number": 102,
+                "store_name": "Sturgeon Falls, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.943441,
+                    43.369673
+                ]
+            },
+            "properties": {
+                "store_number": 103,
+                "store_name": "Stratford, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.608521,
+                    42.945155
+                ]
+            },
+            "properties": {
+                "store_number": 104,
+                "store_name": "Strathroy, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.530068,
+                    45.726944
+                ]
+            },
+            "properties": {
+                "store_number": 106,
+                "store_name": "Sussex, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.146037,
+                    46.147722
+                ]
+            },
+            "properties": {
+                "store_number": 107,
+                "store_name": "Sydney, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.237276,
+                    44.504704
+                ]
+            },
+            "properties": {
+                "store_number": 108,
+                "store_name": "Collingwood, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.557229,
+                    46.374482
+                ]
+            },
+            "properties": {
+                "store_number": 109,
+                "store_name": "Cap-de-la-Madeleine, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.729276,
+                    42.863958
+                ]
+            },
+            "properties": {
+                "store_number": 110,
+                "store_name": "Tillsonburg, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.404335,
+                    48.471011
+                ]
+            },
+            "properties": {
+                "store_number": 111,
+                "store_name": "Timmins, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.555518,
+                    44.103508
+                ]
+            },
+            "properties": {
+                "store_number": 112,
+                "store_name": "Trenton, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.310836,
+                    45.366876
+                ]
+            },
+            "properties": {
+                "store_number": 113,
+                "store_name": "Truro, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.82666,
+                    48.098429
+                ]
+            },
+            "properties": {
+                "store_number": 114,
+                "store_name": "Val d'Or, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.124769,
+                    45.27059
+                ]
+            },
+            "properties": {
+                "store_number": 115,
+                "store_name": "Valleyfield, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.563375,
+                    45.470097
+                ]
+            },
+            "properties": {
+                "store_number": 117,
+                "store_name": "Verdun, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2293,
+                    43.015701
+                ]
+            },
+            "properties": {
+                "store_number": 118,
+                "store_name": "Welland, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.533043,
+                    43.712302
+                ]
+            },
+            "properties": {
+                "store_number": 119,
+                "store_name": "Weston Road & 401, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.188777,
+                    44.900013
+                ]
+            },
+            "properties": {
+                "store_number": 120,
+                "store_name": "Morrisburg, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.057773,
+                    42.291921
+                ]
+            },
+            "properties": {
+                "store_number": 121,
+                "store_name": "Windsor University Plaza, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.79015,
+                    43.350944
+                ]
+            },
+            "properties": {
+                "store_number": 122,
+                "store_name": "Burlington Fairview, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.736621,
+                    43.116276
+                ]
+            },
+            "properties": {
+                "store_number": 124,
+                "store_name": "Woodstock, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.097355,
+                    43.841799
+                ]
+            },
+            "properties": {
+                "store_number": 125,
+                "store_name": "Yarmouth, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.423862,
+                    43.796086
+                ]
+            },
+            "properties": {
+                "store_number": 126,
+                "store_name": "Yonge & Steeles, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.132247,
+                    44.089465
+                ]
+            },
+            "properties": {
+                "store_number": 127,
+                "store_name": "Uxbridge, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.266304,
+                    42.905457
+                ]
+            },
+            "properties": {
+                "store_number": 128,
+                "store_name": "Port Colborne, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.806828,
+                    43.251865
+                ]
+            },
+            "properties": {
+                "store_number": 129,
+                "store_name": "Hamilton Centre, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.170484,
+                    43.004931
+                ]
+            },
+            "properties": {
+                "store_number": 130,
+                "store_name": "London East, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.750543,
+                    46.555245
+                ]
+            },
+            "properties": {
+                "store_number": 131,
+                "store_name": "Shawinigan, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.783089,
+                    46.413502
+                ]
+            },
+            "properties": {
+                "store_number": 132,
+                "store_name": "Summerside, PEI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.61636,
+                    52.147586
+                ]
+            },
+            "properties": {
+                "store_number": 133,
+                "store_name": "Saskatoon East, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.450759,
+                    44.235737
+                ]
+            },
+            "properties": {
+                "store_number": 134,
+                "store_name": "Keswick, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.383028,
+                    42.583797
+                ]
+            },
+            "properties": {
+                "store_number": 135,
+                "store_name": "Wallaceburg, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.489395,
+                    47.032504
+                ]
+            },
+            "properties": {
+                "store_number": 136,
+                "store_name": "Miramichi, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.598826,
+                    46.170839
+                ]
+            },
+            "properties": {
+                "store_number": 137,
+                "store_name": "Woodstock, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.75511,
+                    45.416985
+                ]
+            },
+            "properties": {
+                "store_number": 138,
+                "store_name": "Granby, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.459881,
+                    43.466372
+                ]
+            },
+            "properties": {
+                "store_number": 139,
+                "store_name": "Kitchener East, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.870691,
+                    43.541075
+                ]
+            },
+            "properties": {
+                "store_number": 140,
+                "store_name": "Milton, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.479829,
+                    43.362989
+                ]
+            },
+            "properties": {
+                "store_number": 141,
+                "store_name": "Exeter, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.981806,
+                    42.7836
+                ]
+            },
+            "properties": {
+                "store_number": 142,
+                "store_name": "Aylmer, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.698536,
+                    43.449912
+                ]
+            },
+            "properties": {
+                "store_number": 143,
+                "store_name": "Oakville, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.727723,
+                    47.617367
+                ]
+            },
+            "properties": {
+                "store_number": 144,
+                "store_name": "St. John's Hebron Way, NL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.217901,
+                    43.134775
+                ]
+            },
+            "properties": {
+                "store_number": 145,
+                "store_name": "St. Catharines S., ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.974575,
+                    49.145708
+                ]
+            },
+            "properties": {
+                "store_number": 146,
+                "store_name": "Estevan, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.730847,
+                    45.359381
+                ]
+            },
+            "properties": {
+                "store_number": 147,
+                "store_name": "Chateauguay, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.098468,
+                    46.037949
+                ]
+            },
+            "properties": {
+                "store_number": 148,
+                "store_name": "Sorel & Tracy, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.853266,
+                    45.455386
+                ]
+            },
+            "properties": {
+                "store_number": 149,
+                "store_name": "Kirkland, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.387593,
+                    43.673711
+                ]
+            },
+            "properties": {
+                "store_number": 150,
+                "store_name": "Toronto, Yonge & Church, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.978128,
+                    45.642608
+                ]
+            },
+            "properties": {
+                "store_number": 151,
+                "store_name": "St. Hyacinthe, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.587171,
+                    43.603916
+                ]
+            },
+            "properties": {
+                "store_number": 152,
+                "store_name": "Miss. Dixie & Dundas, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.2658,
+                    45.330069
+                ]
+            },
+            "properties": {
+                "store_number": 153,
+                "store_name": "St. Jean-sur-Richelieu, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.773654,
+                    43.227827
+                ]
+            },
+            "properties": {
+                "store_number": 154,
+                "store_name": "Stoney Creek, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.782404,
+                    45.524367
+                ]
+            },
+            "properties": {
+                "store_number": 155,
+                "store_name": "Laval, Ste-Dorothee, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.311001,
+                    46.103876
+                ]
+            },
+            "properties": {
+                "store_number": 156,
+                "store_name": "Thetford Mines, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.599091,
+                    45.592375
+                ]
+            },
+            "properties": {
+                "store_number": 157,
+                "store_name": "Hawkesbury, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.512684,
+                    45.889898
+                ]
+            },
+            "properties": {
+                "store_number": 158,
+                "store_name": "Drummondville, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.888037,
+                    43.650753
+                ]
+            },
+            "properties": {
+                "store_number": 159,
+                "store_name": "Georgetown, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.015217,
+                    43.864648
+                ]
+            },
+            "properties": {
+                "store_number": 160,
+                "store_name": "Ajax, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.216093,
+                    43.176538
+                ]
+            },
+            "properties": {
+                "store_number": 162,
+                "store_name": "St. Catharines N., ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.371417,
+                    43.886322
+                ]
+            },
+            "properties": {
+                "store_number": 164,
+                "store_name": "Markham, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.170893,
+                    46.790015
+                ]
+            },
+            "properties": {
+                "store_number": 165,
+                "store_name": "Levis, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.646534,
+                    46.381327
+                ]
+            },
+            "properties": {
+                "store_number": 167,
+                "store_name": "Elliot Lake, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.323844,
+                    43.407473
+                ]
+            },
+            "properties": {
+                "store_number": 168,
+                "store_name": "Cambridge Hespeler, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.760876,
+                    43.582019
+                ]
+            },
+            "properties": {
+                "store_number": 169,
+                "store_name": "Meadowvale, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.71441,
+                    43.911408
+                ]
+            },
+            "properties": {
+                "store_number": 170,
+                "store_name": "Bowmanville, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.840873,
+                    42.17752
+                ]
+            },
+            "properties": {
+                "store_number": 172,
+                "store_name": "Essex, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.681357,
+                    46.127211
+                ]
+            },
+            "properties": {
+                "store_number": 173,
+                "store_name": "St. Georges, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.650879,
+                    45.420255
+                ]
+            },
+            "properties": {
+                "store_number": 174,
+                "store_name": "Ottawa East, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.226366,
+                    43.758333
+                ]
+            },
+            "properties": {
+                "store_number": 175,
+                "store_name": "Scarborough, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.729452,
+                    45.443001
+                ]
+            },
+            "properties": {
+                "store_number": 176,
+                "store_name": "Hull, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.879843,
+                    43.229281
+                ]
+            },
+            "properties": {
+                "store_number": 177,
+                "store_name": "Hamilton Mt.West, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.417822,
+                    49.419867
+                ]
+            },
+            "properties": {
+                "store_number": 178,
+                "store_name": "Kapuskasing, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.429505,
+                    48.608171
+                ]
+            },
+            "properties": {
+                "store_number": 179,
+                "store_name": "Fort Frances, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.548508,
+                    46.970509
+                ]
+            },
+            "properties": {
+                "store_number": 180,
+                "store_name": "Montmagny, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.996426,
+                    45.38493
+                ]
+            },
+            "properties": {
+                "store_number": 181,
+                "store_name": "Ile Perrot, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.471761,
+                    43.670599
+                ]
+            },
+            "properties": {
+                "store_number": 182,
+                "store_name": "West Toronto (Stockyards), ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.202226,
+                    46.872718
+                ]
+            },
+            "properties": {
+                "store_number": 184,
+                "store_name": "Beauport, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.921685,
+                    48.958464
+                ]
+            },
+            "properties": {
+                "store_number": 185,
+                "store_name": "Corner Brook, NL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.618492,
+                    44.612462
+                ]
+            },
+            "properties": {
+                "store_number": 186,
+                "store_name": "Halifax - Spryfield, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.929756,
+                    43.867208
+                ]
+            },
+            "properties": {
+                "store_number": 187,
+                "store_name": "Whitby, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.828847,
+                    49.787368
+                ]
+            },
+            "properties": {
+                "store_number": 188,
+                "store_name": "Dryden, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.446013,
+                    44.00918
+                ]
+            },
+            "properties": {
+                "store_number": 189,
+                "store_name": "Aurora, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.463441,
+                    45.483003
+                ]
+            },
+            "properties": {
+                "store_number": 190,
+                "store_name": "Greenfield Park, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.677884,
+                    45.480806
+                ]
+            },
+            "properties": {
+                "store_number": 191,
+                "store_name": "Gatineau, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.371951,
+                    43.769037
+                ]
+            },
+            "properties": {
+                "store_number": 192,
+                "store_name": "Sheppard Ave., ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.49416,
+                    42.853143
+                ]
+            },
+            "properties": {
+                "store_number": 193,
+                "store_name": "Delhi, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.788458,
+                    43.174859
+                ]
+            },
+            "properties": {
+                "store_number": 194,
+                "store_name": "Hamilton Mt.East, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.514545,
+                    44.241521
+                ]
+            },
+            "properties": {
+                "store_number": 195,
+                "store_name": "Kingston, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.98244,
+                    46.387673
+                ]
+            },
+            "properties": {
+                "store_number": 196,
+                "store_name": "Maniwaki, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.710212,
+                    43.86194
+                ]
+            },
+            "properties": {
+                "store_number": 197,
+                "store_name": "Bolton, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.85427,
+                    55.743148
+                ]
+            },
+            "properties": {
+                "store_number": 198,
+                "store_name": "Thompson, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.928145,
+                    42.313216
+                ]
+            },
+            "properties": {
+                "store_number": 199,
+                "store_name": "Windsor East, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.415837,
+                    46.035824
+                ]
+            },
+            "properties": {
+                "store_number": 200,
+                "store_name": "Joliette, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.272255,
+                    49.015845
+                ]
+            },
+            "properties": {
+                "store_number": 201,
+                "store_name": "Nipigon, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.248503,
+                    46.212263
+                ]
+            },
+            "properties": {
+                "store_number": 202,
+                "store_name": "North Sydney, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6862,
+                    49.542908
+                ]
+            },
+            "properties": {
+                "store_number": 203,
+                "store_name": "Steinbach, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.472251,
+                    49.759288
+                ]
+            },
+            "properties": {
+                "store_number": 204,
+                "store_name": "Kenora, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.653922,
+                    48.941263
+                ]
+            },
+            "properties": {
+                "store_number": 205,
+                "store_name": "Grand Falls-Windsor, NL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.325951,
+                    45.042931
+                ]
+            },
+            "properties": {
+                "store_number": 206,
+                "store_name": "Bracebridge, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.277955,
+                    42.935379
+                ]
+            },
+            "properties": {
+                "store_number": 208,
+                "store_name": "London West, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.238065,
+                    43.720986
+                ]
+            },
+            "properties": {
+                "store_number": 209,
+                "store_name": "Kingston Rd, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.668448,
+                    45.37733
+                ]
+            },
+            "properties": {
+                "store_number": 210,
+                "store_name": "Ottawa South, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.899673,
+                    50.572826
+                ]
+            },
+            "properties": {
+                "store_number": 212,
+                "store_name": "Brooks, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.355145,
+                    45.61539
+                ]
+            },
+            "properties": {
+                "store_number": 213,
+                "store_name": "Port Hawkesbury, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.467035,
+                    43.693368
+                ]
+            },
+            "properties": {
+                "store_number": 214,
+                "store_name": "Eglinton & Caledonia, Toronto, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.426472,
+                    42.264745
+                ]
+            },
+            "properties": {
+                "store_number": 215,
+                "store_name": "Tilbury, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.779801,
+                    47.553287
+                ]
+            },
+            "properties": {
+                "store_number": 216,
+                "store_name": "St. John's West, NL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.240776,
+                    47.723106
+                ]
+            },
+            "properties": {
+                "store_number": 217,
+                "store_name": "Carbonear, NL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.909224,
+                    45.566926
+                ]
+            },
+            "properties": {
+                "store_number": 218,
+                "store_name": "St. Eustache, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.750768,
+                    47.056261
+                ]
+            },
+            "properties": {
+                "store_number": 219,
+                "store_name": "Grand Falls, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.913188,
+                    43.317482
+                ]
+            },
+            "properties": {
+                "store_number": 220,
+                "store_name": "Waterdown, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.214049,
+                    48.410082
+                ]
+            },
+            "properties": {
+                "store_number": 221,
+                "store_name": "Jonquiere, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.455614,
+                    45.746024
+                ]
+            },
+            "properties": {
+                "store_number": 222,
+                "store_name": "Repentigny, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.196442,
+                    49.821739
+                ]
+            },
+            "properties": {
+                "store_number": 223,
+                "store_name": "Winnipeg Kenaston, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.643938,
+                    44.74988
+                ]
+            },
+            "properties": {
+                "store_number": 224,
+                "store_name": "Halifax - Bedford, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.903463,
+                    45.58897
+                ]
+            },
+            "properties": {
+                "store_number": 225,
+                "store_name": "Lac Megantic, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.94033,
+                    44.091881
+                ]
+            },
+            "properties": {
+                "store_number": 226,
+                "store_name": "Port Perry, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.63381,
+                    45.02863
+                ]
+            },
+            "properties": {
+                "store_number": 227,
+                "store_name": "Kemptville, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.209235,
+                    45.5617
+                ]
+            },
+            "properties": {
+                "store_number": 228,
+                "store_name": "Beloeil, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.974644,
+                    46.192931
+                ]
+            },
+            "properties": {
+                "store_number": 229,
+                "store_name": "Glace Bay, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.612111,
+                    45.450106
+                ]
+            },
+            "properties": {
+                "store_number": 230,
+                "store_name": "Ville La Salle, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.69593,
+                    45.609624
+                ]
+            },
+            "properties": {
+                "store_number": 231,
+                "store_name": "Laval Vimont, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.274072,
+                    45.205645
+                ]
+            },
+            "properties": {
+                "store_number": 232,
+                "store_name": "St. Stephen, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.198701,
+                    48.810896
+                ]
+            },
+            "properties": {
+                "store_number": 233,
+                "store_name": "La Sarre, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.790676,
+                    45.482736
+                ]
+            },
+            "properties": {
+                "store_number": 234,
+                "store_name": "Dollard des Ormeaux, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.706428,
+                    45.50067
+                ]
+            },
+            "properties": {
+                "store_number": 235,
+                "store_name": "Ville St. Laurent, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.964351,
+                    42.259457
+                ]
+            },
+            "properties": {
+                "store_number": 236,
+                "store_name": "Windsor South, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.550965,
+                    43.789898
+                ]
+            },
+            "properties": {
+                "store_number": 237,
+                "store_name": "Woodbridge, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.628968,
+                    45.30063
+                ]
+            },
+            "properties": {
+                "store_number": 238,
+                "store_name": "Alexandria, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.125416,
+                    45.282149
+                ]
+            },
+            "properties": {
+                "store_number": 240,
+                "store_name": "Magog, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.629078,
+                    43.509024
+                ]
+            },
+            "properties": {
+                "store_number": 241,
+                "store_name": "Mississauga Southdown, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.56625,
+                    43.712549
+                ]
+            },
+            "properties": {
+                "store_number": 242,
+                "store_name": "Rexdale, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.939555,
+                    46.057732
+                ]
+            },
+            "properties": {
+                "store_number": 243,
+                "store_name": "Victoriaville, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.194107,
+                    46.567832
+                ]
+            },
+            "properties": {
+                "store_number": 244,
+                "store_name": "Chelmsford, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.291265,
+                    46.767937
+                ]
+            },
+            "properties": {
+                "store_number": 245,
+                "store_name": "Quebec Ste. Foy, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.587499,
+                    45.567752
+                ]
+            },
+            "properties": {
+                "store_number": 247,
+                "store_name": "St. Leonard, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.202273,
+                    49.88645
+                ]
+            },
+            "properties": {
+                "store_number": 248,
+                "store_name": "Winnipeg Polo Park, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.833704,
+                    46.11054
+                ]
+            },
+            "properties": {
+                "store_number": 249,
+                "store_name": "Moncton Mountain Rd, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.523074,
+                    43.485236
+                ]
+            },
+            "properties": {
+                "store_number": 251,
+                "store_name": "Waterloo, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.310964,
+                    49.883535
+                ]
+            },
+            "properties": {
+                "store_number": 252,
+                "store_name": "Winnipeg Unicity Shopping Centre, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.500852,
+                    46.099571
+                ]
+            },
+            "properties": {
+                "store_number": 253,
+                "store_name": "Deep River, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.022167,
+                    45.304508
+                ]
+            },
+            "properties": {
+                "store_number": 254,
+                "store_name": "Saint John - Westmorland Road, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.470013,
+                    45.539184
+                ]
+            },
+            "properties": {
+                "store_number": 256,
+                "store_name": "Longueuil, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.278969,
+                    46.048442
+                ]
+            },
+            "properties": {
+                "store_number": 257,
+                "store_name": "Ste. Agathe des Monts, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.726544,
+                    45.336227
+                ]
+            },
+            "properties": {
+                "store_number": 258,
+                "store_name": "Ottawa Merivale, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.60234,
+                    48.951139
+                ]
+            },
+            "properties": {
+                "store_number": 259,
+                "store_name": "Gander, NL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.277043,
+                    43.566957
+                ]
+            },
+            "properties": {
+                "store_number": 260,
+                "store_name": "Guelph North, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.936457,
+                    44.967504
+                ]
+            },
+            "properties": {
+                "store_number": 261,
+                "store_name": "Greenwood, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.326013,
+                    45.637695
+                ]
+            },
+            "properties": {
+                "store_number": 262,
+                "store_name": "Lachute, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.536063,
+                    50.406165
+                ]
+            },
+            "properties": {
+                "store_number": 263,
+                "store_name": "Moose Jaw, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.260961,
+                    43.790169
+                ]
+            },
+            "properties": {
+                "store_number": 264,
+                "store_name": "Agincourt, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.254935,
+                    49.199867
+                ]
+            },
+            "properties": {
+                "store_number": 265,
+                "store_name": "Baie-Comeau, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.068779,
+                    49.854829
+                ]
+            },
+            "properties": {
+                "store_number": 266,
+                "store_name": "Winnipeg St. Boniface, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.61519,
+                    45.605812
+                ]
+            },
+            "properties": {
+                "store_number": 267,
+                "store_name": "Montreal Nord, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.054944,
+                    48.407057
+                ]
+            },
+            "properties": {
+                "store_number": 268,
+                "store_name": "Chicoutimi, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.397244,
+                    44.423617
+                ]
+            },
+            "properties": {
+                "store_number": 269,
+                "store_name": "Port Elgin, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.055808,
+                    49.896943
+                ]
+            },
+            "properties": {
+                "store_number": 270,
+                "store_name": "Winnipeg Regent, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.018975,
+                    45.790846
+                ]
+            },
+            "properties": {
+                "store_number": 271,
+                "store_name": "St. Jerome, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.835517,
+                    45.322314
+                ]
+            },
+            "properties": {
+                "store_number": 272,
+                "store_name": "Ottawa Bells Cnrs, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.298308,
+                    43.688217
+                ]
+            },
+            "properties": {
+                "store_number": 273,
+                "store_name": "Toronto Main & Danforth, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.760037,
+                    45.191058
+                ]
+            },
+            "properties": {
+                "store_number": 274,
+                "store_name": "Cowansville, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.61628,
+                    50.467598
+                ]
+            },
+            "properties": {
+                "store_number": 275,
+                "store_name": "Regina North Albert, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.331504,
+                    49.972579
+                ]
+            },
+            "properties": {
+                "store_number": 277,
+                "store_name": "Portage La Prairie, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.941497,
+                    46.520032
+                ]
+            },
+            "properties": {
+                "store_number": 278,
+                "store_name": "Sudbury North, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.771125,
+                    47.995529
+                ]
+            },
+            "properties": {
+                "store_number": 279,
+                "store_name": "Wawa, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.276885,
+                    43.954522
+                ]
+            },
+            "properties": {
+                "store_number": 280,
+                "store_name": "Stouffville, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.108928,
+                    42.098135
+                ]
+            },
+            "properties": {
+                "store_number": 281,
+                "store_name": "Amherstburg, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.108697,
+                    43.069859
+                ]
+            },
+            "properties": {
+                "store_number": 282,
+                "store_name": "Niagara Falls McLeod, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.243508,
+                    48.878089
+                ]
+            },
+            "properties": {
+                "store_number": 284,
+                "store_name": "Dolbeau-Mistassini, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.124075,
+                    48.559348
+                ]
+            },
+            "properties": {
+                "store_number": 285,
+                "store_name": "Amos, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.960437,
+                    49.824536
+                ]
+            },
+            "properties": {
+                "store_number": 286,
+                "store_name": "Brandon, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.441011,
+                    51.211644
+                ]
+            },
+            "properties": {
+                "store_number": 287,
+                "store_name": "Yorkton, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.626034,
+                    53.535876
+                ]
+            },
+            "properties": {
+                "store_number": 288,
+                "store_name": "Edmonton West, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.696046,
+                    44.772816
+                ]
+            },
+            "properties": {
+                "store_number": 289,
+                "store_name": "Halifax - Lwr. Sackville, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.74893,
+                    45.378784
+                ]
+            },
+            "properties": {
+                "store_number": 290,
+                "store_name": "Ottawa Carling Ave, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.054043,
+                    49.219614
+                ]
+            },
+            "properties": {
+                "store_number": 291,
+                "store_name": "Lewisporte, NL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.652789,
+                    45.531218
+                ]
+            },
+            "properties": {
+                "store_number": 292,
+                "store_name": "Marche Central, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.582542,
+                    43.741844
+                ]
+            },
+            "properties": {
+                "store_number": 294,
+                "store_name": "Albion & Kipling, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.720591,
+                    52.132139
+                ]
+            },
+            "properties": {
+                "store_number": 296,
+                "store_name": "Saskatoon West, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.606548,
+                    45.435435
+                ]
+            },
+            "properties": {
+                "store_number": 297,
+                "store_name": "Ottawa Gloucester, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.64989,
+                    48.533956
+                ]
+            },
+            "properties": {
+                "store_number": 298,
+                "store_name": "Alma, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.148335,
+                    51.101009
+                ]
+            },
+            "properties": {
+                "store_number": 299,
+                "store_name": "Calgary Dalhousie NW, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.727832,
+                    45.559069
+                ]
+            },
+            "properties": {
+                "store_number": 300,
+                "store_name": "Laval Carrefour, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.271251,
+                    52.758662
+                ]
+            },
+            "properties": {
+                "store_number": 301,
+                "store_name": "North Battleford, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.162186,
+                    51.019188
+                ]
+            },
+            "properties": {
+                "store_number": 302,
+                "store_name": "Calgary Westhills, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.512845,
+                    45.652385
+                ]
+            },
+            "properties": {
+                "store_number": 303,
+                "store_name": "Pointe aux Trembles, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.488873,
+                    53.451913
+                ]
+            },
+            "properties": {
+                "store_number": 304,
+                "store_name": "Edmonton South, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.700269,
+                    43.741255
+                ]
+            },
+            "properties": {
+                "store_number": 305,
+                "store_name": "Brampton Bramalea, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.150079,
+                    47.645284
+                ]
+            },
+            "properties": {
+                "store_number": 306,
+                "store_name": "La Malbaie, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.372289,
+                    50.212293
+                ]
+            },
+            "properties": {
+                "store_number": 307,
+                "store_name": "Sept-Iles, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.581327,
+                    46.351749
+                ]
+            },
+            "properties": {
+                "store_number": 308,
+                "store_name": "Trois-Rivieres, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.484854,
+                    45.832971
+                ]
+            },
+            "properties": {
+                "store_number": 309,
+                "store_name": "Oromocto, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.621188,
+                    50.403291
+                ]
+            },
+            "properties": {
+                "store_number": 310,
+                "store_name": "Regina South, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.650742,
+                    45.702759
+                ]
+            },
+            "properties": {
+                "store_number": 312,
+                "store_name": "Terrebonne, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.070015,
+                    50.963103
+                ]
+            },
+            "properties": {
+                "store_number": 313,
+                "store_name": "Calgary Southland and Macleod, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.558279,
+                    48.843325
+                ]
+            },
+            "properties": {
+                "store_number": 315,
+                "store_name": "Matane, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.762283,
+                    53.179271
+                ]
+            },
+            "properties": {
+                "store_number": 317,
+                "store_name": "Prince Albert, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.782543,
+                    45.431776
+                ]
+            },
+            "properties": {
+                "store_number": 318,
+                "store_name": "Aylmer, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.161345,
+                    47.589266
+                ]
+            },
+            "properties": {
+                "store_number": 319,
+                "store_name": "Port aux Basques, NL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.514261,
+                    48.46837
+                ]
+            },
+            "properties": {
+                "store_number": 320,
+                "store_name": "Rimouski, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.475183,
+                    43.814254
+                ]
+            },
+            "properties": {
+                "store_number": 321,
+                "store_name": "Dufferin & 407, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.209262,
+                    53.696179
+                ]
+            },
+            "properties": {
+                "store_number": 322,
+                "store_name": "Fort Saskatchewan, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.55126,
+                    47.824712
+                ]
+            },
+            "properties": {
+                "store_number": 323,
+                "store_name": "Riviere du Loup, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.070261,
+                    43.842505
+                ]
+            },
+            "properties": {
+                "store_number": 324,
+                "store_name": "Pickering, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.577734,
+                    48.546423
+                ]
+            },
+            "properties": {
+                "store_number": 325,
+                "store_name": "Stephenville, NL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.984447,
+                    51.060585
+                ]
+            },
+            "properties": {
+                "store_number": 326,
+                "store_name": "Calgary Pacific Place, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.646036,
+                    49.995395
+                ]
+            },
+            "properties": {
+                "store_number": 328,
+                "store_name": "Medicine Hat, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.816675,
+                    52.243536
+                ]
+            },
+            "properties": {
+                "store_number": 329,
+                "store_name": "Red Deer, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.388887,
+                    52.9574
+                ]
+            },
+            "properties": {
+                "store_number": 330,
+                "store_name": "Wetaskiwin, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.061207,
+                    51.134386
+                ]
+            },
+            "properties": {
+                "store_number": 331,
+                "store_name": "Dauphin, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.431976,
+                    45.589274
+                ]
+            },
+            "properties": {
+                "store_number": 332,
+                "store_name": "Boucherville, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.811741,
+                    47.500953
+                ]
+            },
+            "properties": {
+                "store_number": 333,
+                "store_name": "Mount Pearl, NL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.621067,
+                    53.644523
+                ]
+            },
+            "properties": {
+                "store_number": 334,
+                "store_name": "Edmonton St.Albert, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.898769,
+                    48.335962
+                ]
+            },
+            "properties": {
+                "store_number": 335,
+                "store_name": "La Baie, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.857481,
+                    43.936743
+                ]
+            },
+            "properties": {
+                "store_number": 336,
+                "store_name": "Oshawa North, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.628523,
+                    45.989336
+                ]
+            },
+            "properties": {
+                "store_number": 337,
+                "store_name": "Fredericton North, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.356671,
+                    56.721126
+                ]
+            },
+            "properties": {
+                "store_number": 339,
+                "store_name": "Fort McMurray - Main Store, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.046015,
+                    53.277012
+                ]
+            },
+            "properties": {
+                "store_number": 341,
+                "store_name": "Lloydminster, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.333606,
+                    46.81631
+                ]
+            },
+            "properties": {
+                "store_number": 342,
+                "store_name": "Quebec Les Saules, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.605373,
+                    45.529493
+                ]
+            },
+            "properties": {
+                "store_number": 343,
+                "store_name": "Montreal Bellechasse, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.848446,
+                    55.173506
+                ]
+            },
+            "properties": {
+                "store_number": 344,
+                "store_name": "Grande Prairie, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.14291,
+                    49.950909
+                ]
+            },
+            "properties": {
+                "store_number": 345,
+                "store_name": "Winnipeg McPhillips, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.635376,
+                    43.566221
+                ]
+            },
+            "properties": {
+                "store_number": 346,
+                "store_name": "Miss.Mavis & Dundas, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.397847,
+                    53.620864
+                ]
+            },
+            "properties": {
+                "store_number": 347,
+                "store_name": "Edmonton Manning Dr., AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.85098,
+                    45.409708
+                ]
+            },
+            "properties": {
+                "store_number": 348,
+                "store_name": "Sherbrooke Fleurimont, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.100745,
+                    45.250208
+                ]
+            },
+            "properties": {
+                "store_number": 349,
+                "store_name": "Saint John Fairville, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.982277,
+                    49.67266
+                ]
+            },
+            "properties": {
+                "store_number": 350,
+                "store_name": "Courtenay, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.602798,
+                    49.490519
+                ]
+            },
+            "properties": {
+                "store_number": 351,
+                "store_name": "Penticton, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.784083,
+                    47.41768
+                ]
+            },
+            "properties": {
+                "store_number": 352,
+                "store_name": "La Tuque, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.426719,
+                    49.883858
+                ]
+            },
+            "properties": {
+                "store_number": 353,
+                "store_name": "Kelowna, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.380099,
+                    50.654576
+                ]
+            },
+            "properties": {
+                "store_number": 355,
+                "store_name": "Kamloops South, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.362756,
+                    50.702767
+                ]
+            },
+            "properties": {
+                "store_number": 356,
+                "store_name": "Kamloops North, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.931102,
+                    49.191475
+                ]
+            },
+            "properties": {
+                "store_number": 358,
+                "store_name": "Winkler, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.780027,
+                    53.867364
+                ]
+            },
+            "properties": {
+                "store_number": 360,
+                "store_name": "Prince George, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.268391,
+                    50.284956
+                ]
+            },
+            "properties": {
+                "store_number": 361,
+                "store_name": "Vernon, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.031932,
+                    49.219601
+                ]
+            },
+            "properties": {
+                "store_number": 362,
+                "store_name": "Nanaimo, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.84505,
+                    56.239543
+                ]
+            },
+            "properties": {
+                "store_number": 363,
+                "store_name": "Fort St. John, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.337335,
+                    48.445211
+                ]
+            },
+            "properties": {
+                "store_number": 365,
+                "store_name": "Victoria Hillside Centre, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.506302,
+                    48.441886
+                ]
+            },
+            "properties": {
+                "store_number": 366,
+                "store_name": "Victoria Langford, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.426134,
+                    48.450737
+                ]
+            },
+            "properties": {
+                "store_number": 368,
+                "store_name": "Victoria View Royal, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.381341,
+                    48.497614
+                ]
+            },
+            "properties": {
+                "store_number": 369,
+                "store_name": "Victoria Royal Oak, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.114437,
+                    49.26511
+                ]
+            },
+            "properties": {
+                "store_number": 389,
+                "store_name": "Cambie & 7th, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.75163,
+                    49.524212
+                ]
+            },
+            "properties": {
+                "store_number": 395,
+                "store_name": "Cranbrook, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5516,
+                    45.384658
+                ]
+            },
+            "properties": {
+                "store_number": 396,
+                "store_name": "Delson, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.489011,
+                    53.622899
+                ]
+            },
+            "properties": {
+                "store_number": 397,
+                "store_name": "Edmonton North West, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.85741,
+                    53.016218
+                ]
+            },
+            "properties": {
+                "store_number": 398,
+                "store_name": "Camrose, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.25646,
+                    43.85169
+                ]
+            },
+            "properties": {
+                "store_number": 399,
+                "store_name": "Markham East, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.560838,
+                    45.542044
+                ]
+            },
+            "properties": {
+                "store_number": 400,
+                "store_name": "Montreal Maisonneuve, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.637613,
+                    45.50185
+                ]
+            },
+            "properties": {
+                "store_number": 401,
+                "store_name": "Cote des Neiges, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.272806,
+                    46.840138
+                ]
+            },
+            "properties": {
+                "store_number": 405,
+                "store_name": "Lebourgneuf, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.676649,
+                    49.691702
+                ]
+            },
+            "properties": {
+                "store_number": 406,
+                "store_name": "Hearst, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.006085,
+                    51.302127
+                ]
+            },
+            "properties": {
+                "store_number": 407,
+                "store_name": "Airdrie, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.877133,
+                    49.662909
+                ]
+            },
+            "properties": {
+                "store_number": 408,
+                "store_name": "Weyburn, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.07944,
+                    53.501372
+                ]
+            },
+            "properties": {
+                "store_number": 410,
+                "store_name": "Vegreville, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.761719,
+                    43.730158
+                ]
+            },
+            "properties": {
+                "store_number": 411,
+                "store_name": "Brampton Trinity Common, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.795677,
+                    43.396114
+                ]
+            },
+            "properties": {
+                "store_number": 412,
+                "store_name": "Burlington North, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.029361,
+                    46.449656
+                ]
+            },
+            "properties": {
+                "store_number": 416,
+                "store_name": "Ste. Marie De Beauce, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.570126,
+                    44.259938
+                ]
+            },
+            "properties": {
+                "store_number": 417,
+                "store_name": "Kingston Township, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.822857,
+                    45.627642
+                ]
+            },
+            "properties": {
+                "store_number": 418,
+                "store_name": "Rosemere, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.042615,
+                    51.106432
+                ]
+            },
+            "properties": {
+                "store_number": 419,
+                "store_name": "Calgary Deerfoot City NE, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.513284,
+                    43.416711
+                ]
+            },
+            "properties": {
+                "store_number": 420,
+                "store_name": "Kitchener West, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.506716,
+                    45.452537
+                ]
+            },
+            "properties": {
+                "store_number": 422,
+                "store_name": "Ottawa Orleans, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.727414,
+                    46.683418
+                ]
+            },
+            "properties": {
+                "store_number": 423,
+                "store_name": "Donnacona, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.68932,
+                    43.513654
+                ]
+            },
+            "properties": {
+                "store_number": 424,
+                "store_name": "Oak., Winston Churchill, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.334705,
+                    43.007652
+                ]
+            },
+            "properties": {
+                "store_number": 425,
+                "store_name": "London North, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.667203,
+                    49.117672
+                ]
+            },
+            "properties": {
+                "store_number": 426,
+                "store_name": "Langley, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.15371,
+                    43.797278
+                ]
+            },
+            "properties": {
+                "store_number": 427,
+                "store_name": "Scarborough East, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.32523,
+                    53.510932
+                ]
+            },
+            "properties": {
+                "store_number": 428,
+                "store_name": "Sherwood Park, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.715737,
+                    43.488792
+                ]
+            },
+            "properties": {
+                "store_number": 429,
+                "store_name": "Oakville North, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.957533,
+                    49.139263
+                ]
+            },
+            "properties": {
+                "store_number": 433,
+                "store_name": "Chilliwack, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.322995,
+                    49.052253
+                ]
+            },
+            "properties": {
+                "store_number": 434,
+                "store_name": "Abbotsford, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.586265,
+                    45.488554
+                ]
+            },
+            "properties": {
+                "store_number": 435,
+                "store_name": "Montreal Downtown, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.492549,
+                    44.674699
+                ]
+            },
+            "properties": {
+                "store_number": 436,
+                "store_name": "Halifax - Cole Harbour, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -125.250637,
+                    50.03473
+                ]
+            },
+            "properties": {
+                "store_number": 437,
+                "store_name": "Campbell River, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.129983,
+                    52.117541
+                ]
+            },
+            "properties": {
+                "store_number": 438,
+                "store_name": "Williams Lake, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.705674,
+                    51.459139
+                ]
+            },
+            "properties": {
+                "store_number": 439,
+                "store_name": "Drumheller, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.825658,
+                    49.700399
+                ]
+            },
+            "properties": {
+                "store_number": 441,
+                "store_name": "Lethbridge, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.746012,
+                    45.272187
+                ]
+            },
+            "properties": {
+                "store_number": 442,
+                "store_name": "Barrhaven, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84741,
+                    49.140379
+                ]
+            },
+            "properties": {
+                "store_number": 443,
+                "store_name": "Surrey (Newton), BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.69241,
+                    44.33239
+                ]
+            },
+            "properties": {
+                "store_number": 444,
+                "store_name": "Barrie South, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.993217,
+                    46.447643
+                ]
+            },
+            "properties": {
+                "store_number": 445,
+                "store_name": "Sudbury South, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.583167,
+                    44.10915
+                ]
+            },
+            "properties": {
+                "store_number": 446,
+                "store_name": "Bradford, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.899688,
+                    50.158941
+                ]
+            },
+            "properties": {
+                "store_number": 447,
+                "store_name": "Selkirk, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.567991,
+                    53.269615
+                ]
+            },
+            "properties": {
+                "store_number": 448,
+                "store_name": "Leduc, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.919594,
+                    53.5424
+                ]
+            },
+            "properties": {
+                "store_number": 449,
+                "store_name": "Spruce Grove, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.204507,
+                    54.43386
+                ]
+            },
+            "properties": {
+                "store_number": 450,
+                "store_name": "Cold Lake, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.37853,
+                    48.718636
+                ]
+            },
+            "properties": {
+                "store_number": 451,
+                "store_name": "Marathon, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -135.071658,
+                    60.732284
+                ]
+            },
+            "properties": {
+                "store_number": 452,
+                "store_name": "Whitehorse, YT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.404883,
+                    62.454095
+                ]
+            },
+            "properties": {
+                "store_number": 453,
+                "store_name": "Yellowknife, NT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.599247,
+                    45.626835
+                ]
+            },
+            "properties": {
+                "store_number": 454,
+                "store_name": "Rivieres des Prairies, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.624055,
+                    53.385119
+                ]
+            },
+            "properties": {
+                "store_number": 455,
+                "store_name": "Hinton, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.474838,
+                    48.824928
+                ]
+            },
+            "properties": {
+                "store_number": 456,
+                "store_name": "Gaspe, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.918263,
+                    45.3071
+                ]
+            },
+            "properties": {
+                "store_number": 457,
+                "store_name": "Kanata, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.235866,
+                    48.522671
+                ]
+            },
+            "properties": {
+                "store_number": 458,
+                "store_name": "Roberval, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.363368,
+                    43.712534
+                ]
+            },
+            "properties": {
+                "store_number": 459,
+                "store_name": "Eglinton & Laird, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.949036,
+                    43.9186
+                ]
+            },
+            "properties": {
+                "store_number": 460,
+                "store_name": "Whitby North, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.569686,
+                    46.117538
+                ]
+            },
+            "properties": {
+                "store_number": 461,
+                "store_name": "Mont-Tremblant, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.067692,
+                    50.902478
+                ]
+            },
+            "properties": {
+                "store_number": 462,
+                "store_name": "Calgary Shawnessy SE, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.244337,
+                    48.030621
+                ]
+            },
+            "properties": {
+                "store_number": 463,
+                "store_name": "Paspebiac, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.673107,
+                    44.650899
+                ]
+            },
+            "properties": {
+                "store_number": 465,
+                "store_name": "Halifax - Bayers Lake, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.718071,
+                    48.80074
+                ]
+            },
+            "properties": {
+                "store_number": 466,
+                "store_name": "Duncan, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.525655,
+                    53.567077
+                ]
+            },
+            "properties": {
+                "store_number": 467,
+                "store_name": "Edmonton Downtown, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.159419,
+                    47.16491
+                ]
+            },
+            "properties": {
+                "store_number": 468,
+                "store_name": "Marystown, NL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.355346,
+                    51.092676
+                ]
+            },
+            "properties": {
+                "store_number": 469,
+                "store_name": "Canmore, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.338348,
+                    56.231748
+                ]
+            },
+            "properties": {
+                "store_number": 474,
+                "store_name": "Peace River, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.13957,
+                    51.796019
+                ]
+            },
+            "properties": {
+                "store_number": 475,
+                "store_name": "Olds, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.972018,
+                    45.40191
+                ]
+            },
+            "properties": {
+                "store_number": 476,
+                "store_name": "Rothesay, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.454062,
+                    53.574161
+                ]
+            },
+            "properties": {
+                "store_number": 477,
+                "store_name": "Edson, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.427089,
+                    53.454927
+                ]
+            },
+            "properties": {
+                "store_number": 478,
+                "store_name": "Edmonton Millwoods, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.321101,
+                    49.130808
+                ]
+            },
+            "properties": {
+                "store_number": 479,
+                "store_name": "Mission, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.519773,
+                    49.843732
+                ]
+            },
+            "properties": {
+                "store_number": 480,
+                "store_name": "Powell River, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.668034,
+                    49.220733
+                ]
+            },
+            "properties": {
+                "store_number": 481,
+                "store_name": "Maple Ridge, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.297595,
+                    50.693784
+                ]
+            },
+            "properties": {
+                "store_number": 482,
+                "store_name": "Salmon Arm, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.133636,
+                    49.7357
+                ]
+            },
+            "properties": {
+                "store_number": 483,
+                "store_name": "Squamish, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.384488,
+                    45.507618
+                ]
+            },
+            "properties": {
+                "store_number": 484,
+                "store_name": "St. Bruno, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.467507,
+                    43.765391
+                ]
+            },
+            "properties": {
+                "store_number": 485,
+                "store_name": "Dufferin & Finch Auto Ctr, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -128.617592,
+                    54.517797
+                ]
+            },
+            "properties": {
+                "store_number": 486,
+                "store_name": "Terrace, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.439896,
+                    52.97065
+                ]
+            },
+            "properties": {
+                "store_number": 487,
+                "store_name": "Quesnel, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.784748,
+                    49.265326
+                ]
+            },
+            "properties": {
+                "store_number": 488,
+                "store_name": "Port Alberni, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.843226,
+                    49.189561
+                ]
+            },
+            "properties": {
+                "store_number": 489,
+                "store_name": "Surrey (Whalley), BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.345388,
+                    49.330716
+                ]
+            },
+            "properties": {
+                "store_number": 490,
+                "store_name": "Parksville, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.916427,
+                    47.522204
+                ]
+            },
+            "properties": {
+                "store_number": 491,
+                "store_name": "Tracadie - Sheila, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.654144,
+                    49.294505
+                ]
+            },
+            "properties": {
+                "store_number": 492,
+                "store_name": "Castlegar, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.469496,
+                    51.185803
+                ]
+            },
+            "properties": {
+                "store_number": 493,
+                "store_name": "Cochrane, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.238875,
+                    42.981988
+                ]
+            },
+            "properties": {
+                "store_number": 494,
+                "store_name": "London Auto Centre, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0653,
+                    51.155393
+                ]
+            },
+            "properties": {
+                "store_number": 496,
+                "store_name": "Calgary Country Hills, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.695994,
+                    43.610275
+                ]
+            },
+            "properties": {
+                "store_number": 497,
+                "store_name": "Mississauga Heartland, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.383382,
+                    43.655535
+                ]
+            },
+            "properties": {
+                "store_number": 600,
+                "store_name": "Toronto Eaton Centre, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.035105,
+                    49.307651
+                ]
+            },
+            "properties": {
+                "store_number": 601,
+                "store_name": "North Vancouver Main, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.982405,
+                    49.200604
+                ]
+            },
+            "properties": {
+                "store_number": 603,
+                "store_name": "Burnaby South, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.030986,
+                    49.259515
+                ]
+            },
+            "properties": {
+                "store_number": 604,
+                "store_name": "Vancouver, Grandview & Boundary, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.107521,
+                    49.210151
+                ]
+            },
+            "properties": {
+                "store_number": 605,
+                "store_name": "Vancouver, SW Marine, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.13225,
+                    49.188072
+                ]
+            },
+            "properties": {
+                "store_number": 606,
+                "store_name": "Richmond, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.860456,
+                    49.235016
+                ]
+            },
+            "properties": {
+                "store_number": 608,
+                "store_name": "Coquitlam, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.740799,
+                    49.254808
+                ]
+            },
+            "properties": {
+                "store_number": 609,
+                "store_name": "Port Coquitlam, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.097778,
+                    49.132205
+                ]
+            },
+            "properties": {
+                "store_number": 610,
+                "store_name": "S. Richmond, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.160888,
+                    51.159138
+                ]
+            },
+            "properties": {
+                "store_number": 611,
+                "store_name": "Calgary Beacon Hills NW, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.613634,
+                    49.836164
+                ]
+            },
+            "properties": {
+                "store_number": 612,
+                "store_name": "Westbank, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.914246,
+                    52.382132
+                ]
+            },
+            "properties": {
+                "store_number": 613,
+                "store_name": "Rocky Mountain House, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.416307,
+                    53.539056
+                ]
+            },
+            "properties": {
+                "store_number": 614,
+                "store_name": "Edmonton Capilano, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.99519,
+                    53.223666
+                ]
+            },
+            "properties": {
+                "store_number": 615,
+                "store_name": "Drayton Valley, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.560589,
+                    43.581953
+                ]
+            },
+            "properties": {
+                "store_number": 616,
+                "store_name": "Elmira, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.877022,
+                    44.686177
+                ]
+            },
+            "properties": {
+                "store_number": 618,
+                "store_name": "Tantallon, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.504914,
+                    44.978263
+                ]
+            },
+            "properties": {
+                "store_number": 619,
+                "store_name": "Elmsdale, NS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.804071,
+                    49.057403
+                ]
+            },
+            "properties": {
+                "store_number": 622,
+                "store_name": "White Rock, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.302602,
+                    45.547195
+                ]
+            },
+            "properties": {
+                "store_number": 623,
+                "store_name": "Rockland, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.276234,
+                    46.728996
+                ]
+            },
+            "properties": {
+                "store_number": 624,
+                "store_name": "St. Romuald, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.084021,
+                    45.304916
+                ]
+            },
+            "properties": {
+                "store_number": 625,
+                "store_name": "Casselman, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.304811,
+                    45.430056
+                ]
+            },
+            "properties": {
+                "store_number": 626,
+                "store_name": "Chambly, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.631347,
+                    45.454611
+                ]
+            },
+            "properties": {
+                "store_number": 627,
+                "store_name": "St. Jacques - Montreal, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.830057,
+                    52.841963
+                ]
+            },
+            "properties": {
+                "store_number": 628,
+                "store_name": "Wainwright, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.531361,
+                    50.441914
+                ]
+            },
+            "properties": {
+                "store_number": 629,
+                "store_name": "Regina East, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -127.153262,
+                    54.773081
+                ]
+            },
+            "properties": {
+                "store_number": 631,
+                "store_name": "Smithers, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.053093,
+                    47.359823
+                ]
+            },
+            "properties": {
+                "store_number": 633,
+                "store_name": "La Pocatiere, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.789577,
+                    49.667402
+                ]
+            },
+            "properties": {
+                "store_number": 634,
+                "store_name": "Lethbridge South, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.058911,
+                    49.517082
+                ]
+            },
+            "properties": {
+                "store_number": 635,
+                "store_name": "Fernie, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.712084,
+                    49.440956
+                ]
+            },
+            "properties": {
+                "store_number": 636,
+                "store_name": "Sechelt, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.969352,
+                    50.934151
+                ]
+            },
+            "properties": {
+                "store_number": 637,
+                "store_name": "Calgary McKenzie Towne SE, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.147636,
+                    52.200361
+                ]
+            },
+            "properties": {
+                "store_number": 638,
+                "store_name": "Humboldt, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.014176,
+                    43.199801
+                ]
+            },
+            "properties": {
+                "store_number": 639,
+                "store_name": "Ancaster, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.840777,
+                    54.768534
+                ]
+            },
+            "properties": {
+                "store_number": 640,
+                "store_name": "Flin Flon, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.701222,
+                    45.749178
+                ]
+            },
+            "properties": {
+                "store_number": 641,
+                "store_name": "La Plaine, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.973472,
+                    50.706284
+                ]
+            },
+            "properties": {
+                "store_number": 642,
+                "store_name": "Okotoks, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.443491,
+                    45.437223
+                ]
+            },
+            "properties": {
+                "store_number": 643,
+                "store_name": "Brossard, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.815865,
+                    52.287837
+                ]
+            },
+            "properties": {
+                "store_number": 645,
+                "store_name": "Red Deer North, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.039708,
+                    45.406668
+                ]
+            },
+            "properties": {
+                "store_number": 646,
+                "store_name": "Vaudreuil, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.56388,
+                    46.216632
+                ]
+            },
+            "properties": {
+                "store_number": 647,
+                "store_name": "Shediac, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.461445,
+                    46.551944
+                ]
+            },
+            "properties": {
+                "store_number": 648,
+                "store_name": "Mont-Laurier, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.884028,
+                    45.661331
+                ]
+            },
+            "properties": {
+                "store_number": 649,
+                "store_name": "Blainville, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.987377,
+                    48.165842
+                ]
+            },
+            "properties": {
+                "store_number": 650,
+                "store_name": "Clarenville, NL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.3893,
+                    51.036317
+                ]
+            },
+            "properties": {
+                "store_number": 651,
+                "store_name": "Strathmore, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.074078,
+                    44.471906
+                ]
+            },
+            "properties": {
+                "store_number": 652,
+                "store_name": "Wasaga Beach, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.537617,
+                    43.830413
+                ]
+            },
+            "properties": {
+                "store_number": 653,
+                "store_name": "Maple, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.328737,
+                    43.658096
+                ]
+            },
+            "properties": {
+                "store_number": 654,
+                "store_name": "Leslie & Lake Shore, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.071375,
+                    52.306565
+                ]
+            },
+            "properties": {
+                "store_number": 655,
+                "store_name": "Sylvan Lake, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.589157,
+                    52.852601
+                ]
+            },
+            "properties": {
+                "store_number": 656,
+                "store_name": "Melfort, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.984924,
+                    46.653835
+                ]
+            },
+            "properties": {
+                "store_number": 657,
+                "store_name": "Hanmer, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.008512,
+                    50.51457
+                ]
+            },
+            "properties": {
+                "store_number": 658,
+                "store_name": "Invermere, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.594075,
+                    45.31765
+                ]
+            },
+            "properties": {
+                "store_number": 659,
+                "store_name": "Leitrim, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.336379,
+                    44.325652
+                ]
+            },
+            "properties": {
+                "store_number": 660,
+                "store_name": "Peterborough North, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.22262,
+                    55.741767
+                ]
+            },
+            "properties": {
+                "store_number": 661,
+                "store_name": "Dawson Creek, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.244892,
+                    43.171619
+                ]
+            },
+            "properties": {
+                "store_number": 664,
+                "store_name": "Brantford North, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.627297,
+                    49.088829
+                ]
+            },
+            "properties": {
+                "store_number": 665,
+                "store_name": "Trail, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.25237,
+                    54.718969
+                ]
+            },
+            "properties": {
+                "store_number": 667,
+                "store_name": "Athabasca, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.734031,
+                    52.324311
+                ]
+            },
+            "properties": {
+                "store_number": 671,
+                "store_name": "Stettler, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.573798,
+                    43.447589
+                ]
+            },
+            "properties": {
+                "store_number": 674,
+                "store_name": "Waterloo West, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.797354,
+                    43.698073
+                ]
+            },
+            "properties": {
+                "store_number": 675,
+                "store_name": "Brampton McLaughlin Road, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.597206,
+                    53.436224
+                ]
+            },
+            "properties": {
+                "store_number": 676,
+                "store_name": "Edmonton Windermere, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.889134,
+                    49.146462
+                ]
+            },
+            "properties": {
+                "store_number": 678,
+                "store_name": "Surrey (Scott Road), BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.717636,
+                    44.93002
+                ]
+            },
+            "properties": {
+                "store_number": 682,
+                "store_name": "Minden, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.597603,
+                    46.239613
+                ]
+            },
+            "properties": {
+                "store_number": 686,
+                "store_name": "Nicolet, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.574942,
+                    44.307644
+                ]
+            },
+            "properties": {
+                "store_number": 687,
+                "store_name": "Innisfil, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.788053,
+                    45.582208
+                ]
+            },
+            "properties": {
+                "store_number": 690,
+                "store_name": "Laval Fabreville, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.795601,
+                    46.051035
+                ]
+            },
+            "properties": {
+                "store_number": 691,
+                "store_name": "Riverview, NB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.350724,
+                    46.788076
+                ]
+            },
+            "properties": {
+                "store_number": 692,
+                "store_name": "Ancienne Lorette, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.499919,
+                    44.262785
+                ]
+            },
+            "properties": {
+                "store_number": 694,
+                "store_name": "Kingston Division St., ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.685558,
+                    54.138359
+                ]
+            },
+            "properties": {
+                "store_number": 695,
+                "store_name": "Whitecourt, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.76151,
+                    50.122716
+                ]
+            },
+            "properties": {
+                "store_number": 696,
+                "store_name": "Merritt, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.448895,
+                    43.913012
+                ]
+            },
+            "properties": {
+                "store_number": 697,
+                "store_name": "Richmond Hill North, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.555052,
+                    49.170411
+                ]
+            },
+            "properties": {
+                "store_number": 698,
+                "store_name": "Oliver, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.782699,
+                    55.271464
+                ]
+            },
+            "properties": {
+                "store_number": 699,
+                "store_name": "Slave Lake, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.264338,
+                    53.990057
+                ]
+            },
+            "properties": {
+                "store_number": 900,
+                "store_name": "St. Paul, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.92561,
+                    52.948163
+                ]
+            },
+            "properties": {
+                "store_number": 901,
+                "store_name": "Labrador City, NL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.146991,
+                    58.507506
+                ]
+            },
+            "properties": {
+                "store_number": 908,
+                "store_name": "High Level, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.857278,
+                    50.570963
+                ]
+            },
+            "properties": {
+                "store_number": 909,
+                "store_name": "High River, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.08752,
+                    49.042639
+                ]
+            },
+            "properties": {
+                "store_number": 910,
+                "store_name": "Tsawwassen, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.361891,
+                    56.722121
+                ]
+            },
+            "properties": {
+                "store_number": 911,
+                "store_name": "Fort McMurray - Outdoor Store, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.672434,
+                    52.295077
+                ]
+            },
+            "properties": {
+                "store_number": 912,
+                "store_name": "Martensville, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.805853,
+                    50.939149
+                ]
+            },
+            "properties": {
+                "store_number": 915,
+                "store_name": "Melville, SK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.290232,
+                    53.568994
+                ]
+            },
+            "properties": {
+                "store_number": 916,
+                "store_name": "Sherwood Park Emerald Hills, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.54176,
+                    45.592571
+                ]
+            },
+            "properties": {
+                "store_number": 928,
+                "store_name": "Place Versailles, QC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.163668,
+                    49.858359
+                ]
+            },
+            "properties": {
+                "store_number": 929,
+                "store_name": "Winnipeg Grant Park, MB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.082194,
+                    51.038404
+                ]
+            },
+            "properties": {
+                "store_number": 930,
+                "store_name": "Calgary Mount Royal, AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.419055,
+                    48.662738
+                ]
+            },
+            "properties": {
+                "store_number": 932,
+                "store_name": "North Saanich, BC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.334038,
+                    48.471791
+                ]
+            },
+            "properties": {
+                "store_number": 935,
+                "store_name": "Victoria Service Centre, BC"
+            }
+        }
+    ]
+}
