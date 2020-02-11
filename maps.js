@@ -103,14 +103,10 @@ function find_closest_marker(geolocate) {
     var distances = [];
     var closest = -1;
 
-    console.log(geolocate);
-
     var comparePoint = new google.maps.LatLng(
         geolocate.lat(),
         geolocate.lng()
     );
-
-    console.log(comparePoint);
 
     for (var i = 0; i < markersArray.length; i++) {
         var d = isWithinRadius(markersArray[i].position, geolocate);
@@ -121,7 +117,7 @@ function find_closest_marker(geolocate) {
         }
     }
 
-    console.log("Closest Canadian Tire Store is: " + markersArray[closest].name);
+    //console.log("Closest Canadian Tire Store is: " + markersArray[closest].name);
     document.getElementById("result").innerHTML =
         "Closest Canadian Tire Store is: " + markersArray[closest].name;
 }
