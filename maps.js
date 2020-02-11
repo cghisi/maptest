@@ -121,9 +121,9 @@ function find_closest_marker(geolocate) {
         }
     }
 
-    console.log("Closest marker is: " + markersArray[closest].name);
+    console.log("Closest Canadian Tire Store is: " + markersArray[closest].name);
     document.getElementById("result").innerHTML =
-        "Closest marker is: " + markersArray[closest].name;
+        "Closest Canadian Tire Store is: " + markersArray[closest].name;
 }
 /**
  * Search the location fill by the user
