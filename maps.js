@@ -8,21 +8,46 @@ var jsonfile;
 var markersArray;
 
 function getGeolocation() {
-    if (navigator.geolocation) {
-        navigator.geolocation.getCurrentPosition(drawMap);
-    } else {
-        alert("Geolocation is not supported.");
-        document.getElementById("result").innerHTML =
-            "Geolocation is not supported.";
-    }
+
+    //console.log(navigator.geolocation.getCurrentPosition);
+
+    navigator.geolocation.watchPosition(function (position) {
+            //console.log("i'm tracking you!");
+            navigator.geolocation.getCurrentPosition(drawMap);
+        },
+        function (error) {
+            if (error.code == error.PERMISSION_DENIED) {
+                document.getElementById("result").innerHTML =
+                    "Geolocation is not enabled.";
+
+
+                getIP(function (data) {
+                    drawMap(data, false);
+                });
+
+            }
+        });
+
 
 }
 
-function drawMap(geoPos) {
-    var geolocate = new google.maps.LatLng(
-        geoPos.coords.latitude,
-        geoPos.coords.longitude
-    );
+function drawMap(geoPos, locationTracking = "true") {
+    if (locationTracking) {
+        var titleLocation = "HTML Tracking";
+        var geolocate = new google.maps.LatLng(
+            geoPos.coords.latitude,
+            geoPos.coords.longitude
+        );
+    } else {
+        var titleLocation = "IP Tracking";
+        var geolocate = new google.maps.LatLng(
+            geoPos.lat,
+            geoPos.lon
+        );
+    }
+
+
+
     var mapProp = {
         center: geolocate,
         zoom: 13
@@ -31,11 +56,11 @@ function drawMap(geoPos) {
     var infowindow = new google.maps.InfoWindow({
         map: map,
         position: geolocate,
-        content: "Location from HTML5 Geolocation:\n          <br>Latitude: "
-            .concat(geoPos.coords.latitude, "\n          <br>Longitude: ")
-            .concat(geoPos.coords.longitude)
+        content: "Location from " + titleLocation + " Geolocation:\n          <br>Latitude: "
+            .concat(geolocate.lat(), "\n          <br>Longitude: ")
+            .concat(geolocate.lng())
     });
-    loadDataMap(geoPos);
+    loadDataMap(geolocate);
 }
 
 function loadDataMap(geolocate) {
@@ -77,13 +102,18 @@ function loadDataMap(geolocate) {
 function find_closest_marker(geolocate) {
     var distances = [];
     var closest = -1;
+
+    console.log(geolocate);
+
     var comparePoint = new google.maps.LatLng(
-        geolocate.coords.latitude,
-        geolocate.coords.longitude
+        geolocate.lat(),
+        geolocate.lng()
     );
 
+    console.log(comparePoint);
+
     for (var i = 0; i < markersArray.length; i++) {
-        var d = isWithinRadius(markersArray[i].position, geolocate.coords);
+        var d = isWithinRadius(markersArray[i].position, geolocate);
         distances[i] = d;
 
         if (closest == -1 || d < distances[closest]) {
@@ -175,10 +205,14 @@ function centerMapPoint(longitude, latitude) {
  */
 
 function isWithinRadius(location, locationSearch) {
-    var locationLatLng = new google.maps.LatLng(location.lat(), location.lng());
+
+    var locationLatLng = new google.maps.LatLng(
+        location.lat(),
+        location.lng()
+    );
     var userLatLng = new google.maps.LatLng(
-        locationSearch.latitude,
-        locationSearch.longitude
+        locationSearch.lat(),
+        locationSearch.lng()
     );
     var distanceBetween = google.maps.geometry.spherical.computeDistanceBetween(
         locationLatLng,
@@ -197,14 +231,12 @@ function convertMetersToKm(meters) {
     return distanceKm;
 }
 
-function getIP(json) {
-    /*var access_key = "ad32c0dc5c517dde867f887f75998d23";
-    $.ajax({
-        url: "http://api.ipstack.com/" + json.ip + "?access_key=" + access_key,
-        dataType: "jsonp",
-        success: function success(json) {
-            // output the "capital" object inside "location"
-            console.log(json);
-        }
-    });*/
+function getIP(callback) {
+    fetch('//extreme-ip-lookup.com/json/')
+        .then(res => res.json())
+        .then((out) => {
+            return out;
+        })
+        .then(out => callback(out))
+        .catch(err => console.error(err));
 }
