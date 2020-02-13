@@ -7,10 +7,10 @@ var zoom;
 var jsonfile;
 var markersArray;
 
+/**
+ * 
+ */
 function getGeolocation() {
-
-    //console.log(navigator.geolocation.getCurrentPosition);
-
     navigator.geolocation.watchPosition(function (position) {
             //console.log("i'm tracking you!");
             navigator.geolocation.getCurrentPosition(drawMap);
@@ -31,6 +31,11 @@ function getGeolocation() {
 
 }
 
+/**
+ * 
+ * @param {*} geoPos 
+ * @param {*} locationTracking 
+ */
 function drawMap(geoPos, locationTracking = "true") {
     if (locationTracking) {
         var titleLocation = "HTML Tracking";
@@ -45,9 +50,6 @@ function drawMap(geoPos, locationTracking = "true") {
             geoPos.lon
         );
     }
-
-
-
     var mapProp = {
         center: geolocate,
         zoom: 13
@@ -63,6 +65,10 @@ function drawMap(geoPos, locationTracking = "true") {
     loadDataMap(geolocate);
 }
 
+/**
+ * 
+ * @param {*} geolocate 
+ */
 function loadDataMap(geolocate) {
     if (document.getElementById("script-params")) {
         jsonfile = document.getElementById("script-params").getAttribute("data");
@@ -99,6 +105,11 @@ function loadDataMap(geolocate) {
     });
 }
 
+/**
+ * 
+ * @param {*} geolocate 
+ */
+
 function find_closest_marker(geolocate) {
     var distances = [];
     var closest = -1;
@@ -119,11 +130,12 @@ function find_closest_marker(geolocate) {
 
     //console.log("Closest Canadian Tire Store is: " + markersArray[closest].name);
     document.getElementById("result").innerHTML =
-        "Closest Canadian Tire Store is: " + markersArray[closest].name;
+        "Closest Canadian Tire Store is: <b>" + markersArray[closest].name + "</b>";
 }
 /**
  * Search the location fill by the user
  */
+
 
 function codeAddress() {
     var address = document.getElementById("SL_searchBox").value;
@@ -212,7 +224,8 @@ function isWithinRadius(location, locationSearch) {
     );
     var distanceBetween = google.maps.geometry.spherical.computeDistanceBetween(
         locationLatLng,
-        userLatLng
+        userLatLng,
+        100
     );
     return convertMetersToKm(distanceBetween);
 }
@@ -226,6 +239,11 @@ function convertMetersToKm(meters) {
     var distanceKm = meters / 1000;
     return distanceKm;
 }
+
+/**
+ * 
+ * @param {*} callback 
+ */
 
 function getIP(callback) {
     fetch('//extreme-ip-lookup.com/json/')
